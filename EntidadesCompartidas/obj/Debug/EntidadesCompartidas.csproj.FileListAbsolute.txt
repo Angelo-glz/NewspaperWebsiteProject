@@ -1,0 +1,12 @@
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
